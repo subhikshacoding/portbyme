@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portbyme/static/css/main.995cc135.css",
+    "main.js": "/portbyme/static/js/main.fe14c885.js",
+    "static/js/453.68693753.chunk.js": "/portbyme/static/js/453.68693753.chunk.js",
+    "index.html": "/portbyme/index.html",
+    "main.995cc135.css.map": "/portbyme/static/css/main.995cc135.css.map",
+    "main.fe14c885.js.map": "/portbyme/static/js/main.fe14c885.js.map",
+    "453.68693753.chunk.js.map": "/portbyme/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995cc135.css",
+    "static/js/main.fe14c885.js"
+  ]
+}
